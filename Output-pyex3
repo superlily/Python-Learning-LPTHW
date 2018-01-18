@@ -1,0 +1,16 @@
+$ python pyex3.py
+I will now count my chickens(我要开始数鸡啦):
+Hens 30
+Roosters 97
+Now I will count the eggs(我要开始数鸡蛋了)：
+7
+Is it true that 3+2 < 5-7?
+False
+What is 3+2.55? 5
+What is 5-7? -2
+Oh, that's why it's False.
+How about some more.
+Is it greater? True
+Is it greater or equal? True
+Is it less or equal? False
+What is 7/4? 1.75
