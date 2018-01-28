@@ -1,0 +1,17 @@
+$ python pyex40.py
+Traceback (most recent call last):
+  File "pyex40.py", line 12, in <module>
+    "So I'll stop right there"])
+TypeError: object() takes no parameters
+
+---------***** Got the error above as [__init__] was wrongly typed as [_init_] *****---------
+
+
+
+
+$ python pyex40.py
+Happy birthday to you
+I don't want to get sued
+So I'll stop right there
+They rally around the family
+With pockets full of shells
